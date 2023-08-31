@@ -60,15 +60,12 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ArturKaramov"><img
-    src="https://github-readme-stats.vercel.app/api?username=ArturKaramov&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true"
-    alt="ArturKaramov's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturKaramov&theme=react)
 
-<a href="http://www.github.com/ArturKaramov"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ArturKaramov&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturKaramov&theme=react)
 
-<a href="http://www.github.com/ArturKaramov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArturKaramov&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArturKaramov&theme=react)
 
-<a href="https://github.com/ArturKaramov" align="left"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKaramov&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturKaramov&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArturKaramov&theme=react&utcOffset=8)
