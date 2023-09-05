@@ -1,9 +1,7 @@
 <h1 align="center">Начинающий Frontend разработчик</h1>
 
-<h2>Курсы</h2>
-
 <p>С августа 2022 года обучаюсь на Яндекс Практикуме. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
-    <ul>
+  <ul>
       <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
       <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a>
         - React, Redux, TypeScript
@@ -15,19 +13,17 @@
       </li>
       <li><a href="https://github.com/ArturKaramov/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
     </ul>
-  </p>
+</p>
 
-<a href="https://github.com/ArturKaramov/javascript-algorithms"><b>Алгоритмические задачи</b></a>
-<a href="https://github.com/ArturKaramov/hackaton-js"><b>Второе место на хакатоне среди студентов Яндекс-Практикум</b></a>
-
-<li><a href='https://www.codewars.com/users/ArturKaramov/badges/small'>Codewars</a></li>
+<p><a href="https://github.com/ArturKaramov/javascript-algorithms">Алгоритмические задачи</a></p>
+<p><a href="https://github.com/ArturKaramov/hackaton-js">Второе место на хакатоне среди студентов Яндекс-Практикум</a></p>
 
 [![codewars](https://www.codewars.com/users/ArturKaramov/badges/large)](https://www.codewars.com/users/ArturKaramov)
 
 <b>Навыки</b>
 
 <p align="left">
-  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36" height="36" alt="JavaScript" /></a>
