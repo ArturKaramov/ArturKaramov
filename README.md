@@ -15,38 +15,34 @@
     </ul>
 </p>
 
-<p><a href="https://github.com/ArturKaramov/javascript-algorithms">Алгоритмические задачи</a></p>
-<p><a href="https://github.com/ArturKaramov/hackaton-js">Второе место на хакатоне среди студентов Яндекс-Практикум</a></p>
-
 [![codewars](https://www.codewars.com/users/ArturKaramov/badges/large)](https://www.codewars.com/users/ArturKaramov)
 
 <b>Навыки</b>
 
 <p align="left">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       width="36" height="36" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       width="36" height="36" alt="HTML5" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       width="36" height="36" alt="React" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
       width="36" height="36" alt="Sass" /></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
       width="36" height="36" alt="Redux" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       width="36" height="36" alt="Git" /></a>
 </p>
 
