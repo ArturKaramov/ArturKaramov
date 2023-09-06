@@ -13,7 +13,7 @@
       <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a>
         - React, Redux, TypeScript
       </li>
-      <li><a href="https://github.com/ArturKaramov/react-burger">Место - публикация фотографий</a>
+      <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>
         - HTML, CSS, JavaScript, ООП
       </li>
       <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеды - лендинг</a> - HTML, CSS, Vanilla JS
