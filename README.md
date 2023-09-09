@@ -58,7 +58,7 @@
 # Контакты
 
 <a href="https://t.me/Karamyslo">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30">
 </a>
 <a href="mailto:karamov.13@gmail.com">
   <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" height="30">
