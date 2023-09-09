@@ -16,7 +16,7 @@
       <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>
         - HTML, CSS, JavaScript, ООП
       </li>
-      <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеды - лендинг</a> - HTML, CSS, Vanilla JS
+      <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеда - лендинг</a> - HTML, CSS, Vanilla JS
       </li>
       <li><a href="https://github.com/ArturKaramov/russian-travel">Путешествие по России - лендинг</a> - HTML, CSS, Адаптивная верстка
       </li>
