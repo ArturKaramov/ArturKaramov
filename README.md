@@ -9,6 +9,9 @@
 
 <p>С августа 2022 года обучаюсь на Яндекс Практикуме. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
   <ul>
+      <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a></li>
+      <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a></li>
+      <li><a href="https://github.com/ArturKaramov/mesto-project-plus">Бэкэнд проекта Место</a></li>
       <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
       <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a>
         - React, Redux, TypeScript
