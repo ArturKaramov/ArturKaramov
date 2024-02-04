@@ -9,9 +9,9 @@
 
 <p>С августа 2022 года обучаюсь на Яндекс Практикуме. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
   <ul>
-      <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a></li>
-      <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a></li>
-      <li><a href="https://github.com/ArturKaramov/mesto-project-plus">Бэкэнд проекта Место</a></li>
+      <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a> - Docker</li>
+      <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a> - Postgres, NestJS</li>
+      <li><a href="https://github.com/ArturKaramov/mesto-project-plus">Бэкэнд проекта Место</a> - Express, Mongoose</li>
       <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
       <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a>
         - React, Redux, TypeScript
@@ -49,6 +49,13 @@
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="50" height="50" alt="NodeJS" />
+  </a>
+ 
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="" width="50" height="50" alt="Express" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
