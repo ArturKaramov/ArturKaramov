@@ -53,14 +53,14 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" />
   </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://expressjs.com/" width="50" height="50" alt="Express" />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" alt="Express" />
   </a>
- <a href="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/" width="50" height="50" alt="Express" />
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="Express" />
   </a>
- <a href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.docker.com/" width="50" height="50" alt="Express" />
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" alt="Express" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
