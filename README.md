@@ -21,9 +21,6 @@
       </li>
       <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеда - лендинг</a> - HTML, CSS, Vanilla JS
       </li>
-      <li><a href="https://github.com/ArturKaramov/russian-travel">Путешествие по России - лендинг</a> - HTML, CSS, Адаптивная верстка
-      </li>
-      <li><a href="https://github.com/ArturKaramov/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
     </ul>
 </p>
 
