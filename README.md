@@ -1,4 +1,4 @@
-<h1 align="center">Начинающий Frontend разработчик</h1>
+<h1 align="center">Frontend разработчик</h1>
 
 <ul>
  <li>Хочу полноценно освоить frontend и перейти во fullstack разработку</li>
