@@ -9,6 +9,7 @@
 
 <p>С августа 2022 увлекаюсь фронтендом, вот некоторые из проектов:
   <ul>
+      <li><a href="https://github.com/ArturKaramov/kanban-board">Канбан доска</a> -  Next.js</li>
       <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a> - Docker</li>
       <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a> - Postgres, NestJS</li>
       <li><a href="https://github.com/ArturKaramov/mesto-project-plus">Бэкэнд проекта Место</a> - Express, Mongoose</li>
