@@ -54,7 +54,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" alt="Express" />
   </a>
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJS" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS" />
   </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
