@@ -7,7 +7,7 @@
  <li>Имею большой опыт командной работы</li>
 </ul>
 
-<p>С августа 2022 года обучаюсь на Яндекс Практикуме. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
+<p>С августа 2022 увлекаюсь фронтендом, вот некоторые из проектов:
   <ul>
       <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a> - Docker</li>
       <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a> - Postgres, NestJS</li>
