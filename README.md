@@ -1,12 +1,5 @@
 <h1 align="center">Frontend разработчик</h1>
-
-<ul>
- <li>Хочу полноценно освоить frontend и перейти во fullstack разработку</li>
- <li>Планирую освоить новые фреймворки</li>
- <li>Имею большой опыт командной работы</li>
-</ul>
-
-<p>С августа 2022 увлекаюсь фронтендом, вот некоторые из проектов:
+<p>Некоторые из проектов:
   <ul>
       <li><a href="https://github.com/ArturKaramov/kanban-board">Канбан доска</a> -  Next.js</li>
       <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a> - Docker</li>
