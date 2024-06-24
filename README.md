@@ -1,14 +1,12 @@
 <h1 align="center">Frontend разработчик</h1>
 <p>Некоторые из проектов:
   <ul>
+      <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a> - React, Redux, TypeScript</li>
+      <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
       <li><a href="https://github.com/ArturKaramov/kanban-board">Канбан доска</a> -  Next.js</li>
       <li><a href="https://github.com/ArturKaramov/web-plus-docker-and-compose">Докеризация проекта КупиПодариДай</a> - Docker</li>
       <li><a href="https://github.com/ArturKaramov/kupipodariday-backend">Бэкэнд проекта КупиПодариДай</a> - Postgres, NestJS</li>
       <li><a href="https://github.com/ArturKaramov/mesto-project-plus">Бэкэнд проекта Место</a> - Express, Mongoose</li>
-      <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
-      <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a>
-        - React, Redux, TypeScript
-      </li>
       <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>
         - HTML, CSS, JavaScript, ООП
       </li>
